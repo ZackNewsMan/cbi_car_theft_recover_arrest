@@ -15,3 +15,6 @@ However, even if arrests aren't happening, police are recovering stolen cars at 
     •	Aurora Police: Recovered 84% of 17,512 stolen cars
     •	Colorado Springs PD: Recovered 65% of 14,079 stolen cars
     •	Lakewood PD: Recovered 69% of 6,341 stolen cars.  
+
+CBI totals differ between the datasets and it is unclear why. Got into underlying data from the "Table LookUp" here: https://coloradocrimestats.state.co.us/tops/report/mvt/colorado/2019
+
