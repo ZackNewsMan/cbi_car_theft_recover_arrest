@@ -18,3 +18,4 @@ However, even if arrests aren't happening, police are recovering stolen cars at 
 
 CBI totals differ between the datasets and it is unclear why. Got into underlying data from the "Table LookUp" here: https://coloradocrimestats.state.co.us/tops/report/mvt/colorado/2019
 
+This data was utilized in this web story: https://www.9news.com/article/news/crime/colorado-auto-car-theft-single-day/73-a438164e-c311-4389-adfc-98b1c31ebc3d
